@@ -117,4 +117,4 @@ section is samantic can have other elements inside and div is generic
 git push 
     37. Walk me through Lambda's git flow.
     
-    https://codepen.io/Bluefoxpants/pen/zYxrvJG?editors=1100
+     https://codepen.io/Bluefoxpants/pen/NQydJr
